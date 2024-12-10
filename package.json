@@ -5,7 +5,7 @@
   "main": "./dist/react-summernote.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Vnkitaev/react-summernote.git"
+    "url": "https://github.com/vijayshukla30/react-summernote.git"
   },
   "scripts": {
     "build": "webpack",
@@ -25,7 +25,7 @@
   ],
   "author": {
     "name": "Vijay Shukla",
-    "email": "vnkitayev@gmail.com"
+    "email": "vshukla684@gmail.com"
   },
   "license": "MIT",
   "readmeFilename": "README.md",
